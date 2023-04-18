@@ -1,0 +1,8 @@
+pandas
+numpy
+re
+networkx
+pyvis.network
+IPython.display
+IPython.core.display
+ast
