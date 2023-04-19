@@ -6,3 +6,5 @@ pyvis.network
 IPython.display
 IPython.core.display
 ast
+voila
+matplotlib
